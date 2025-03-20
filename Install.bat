@@ -9,12 +9,4 @@ if %ERRORLEVEL% NEQ 0 (
     exit /b %ERRORLEVEL%
 )
 
-echo Launching HellLogger...
-python main.py
-if %ERRORLEVEL% NEQ 0 (
-    echo HellLogger crashed! Check the script or your setup.
-    pause
-    exit /b %ERRORLEVEL%
-)
-
 pause
